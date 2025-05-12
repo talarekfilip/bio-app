@@ -1,4 +1,4 @@
-# Portfolio Generator
+# Bio Generator
 
 A modern web application that allows users to create and customize their professional portfolio pages.
 
@@ -26,7 +26,7 @@ A modern web application that allows users to create and customize their profess
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/portfolio-generator-v1.git
+git clone https://github.com/talarekfilip/bip-app.git
 cd portfolio-generator-v1
 ```
 
@@ -41,7 +41,6 @@ mysql -u your_username -p your_database < app/database/schema.sql
 ```
 
 4. Configure the application:
-   - Copy `app/config/config.example.php` to `app/config/config.php`
    - Update the configuration values in `config.php`
 
 5. Set up your web server:
