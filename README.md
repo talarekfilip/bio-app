@@ -26,7 +26,7 @@ A modern web application that allows users to create and customize their profess
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/talarekfilip/bip-app.git
+git clone https://github.com/talarekfilip/bio-app.git
 cd portfolio-generator-v1
 ```
 
